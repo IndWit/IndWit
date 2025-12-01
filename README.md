@@ -1,115 +1,290 @@
-<h1 align="center">Hi 👋, I'm Induma Withanage</h1>
-<h3 align="center">A passionate Mobile and Fullstack Developer from Sri Lanka</h3>
-<h4 align="center">Specialized in UI/UX</h4>
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F76B&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Specialist;Java+Enthusiast;UI%2FUX+Designer;Problem+Solver" alt="Typing SVG" /></a>
-</p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=IndWit&label=Profile%20views&color=0e75b6&style=flat" alt="IndWit" /> </p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋%20I'm%20Induma%20Withanage&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+</div>
 
 <div align="center">
   
-  ![GitHub Streak](https://streak-stats.demolab.com?user=IndWit&theme=dark&border_radius=5&mode=weekly)
+  ### 💻 Software Engineering Intern | 🎓 Computing Student | 🚀 Full Stack Developer
   
+  <p align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&height=100&lines=Full+Stack+Developer;Mobile+App+Enthusiast;UI%2FUX+Designer;Building+Innovative+Solutions;Open+Source+Contributor" alt="Typing SVG" />
+    </a>
+  </p>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=IndWit&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile views" />
+    <img src="https://img.shields.io/github/followers/IndWit?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+    <img src="https://img.shields.io/github/stars/IndWit?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
+  </p>
+
 </div>
 
-## 🚀 About Me
+---
 
-- 💼 I'm a Frontend and Mobile Developer passionate about creating engaging digital experiences
-- 🌱 I'm currently exploring DevOps and Cloud Technologies
-- 🎓 I'm an undergraduate at **Sabaragamuwa University of Sri Lanka**
-- 💡 Enthusiastic about building innovative web and mobile applications with a creative touch
-- 📫 How to reach me: **indumawithanage1@gmail.com**
-- ⚡ Fun fact: Love designing and developing apps that make life simpler!
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-## 📊 GitHub Stats
+### 👨‍💻 About Me
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=IndWit&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndWit&layout=compact&theme=radical&langs_count=8" />
-</p>
+```javascript
+const induma = {
+    name: "Induma Withanage",
+    location: "Colombo, Sri Lanka 🇱🇰",
+    education: "BSc (Hons) Computing & Information Systems",
+    university: "Sabaragamuwa University of Sri Lanka",
+    gpa: "3.53",
+    role: "Software Engineer Intern",
+    passion: ["Web Development", "Mobile Apps", "UI/UX Design"],
+    currentFocus: ["Full Stack Development", "Flutter", "Cloud Technologies"],
+    languages: ["Java", "Go", "PHP", "Python", "Dart", "JavaScript"],
+    frameworks: ["React.js", "Next.js", "Laravel", "Flutter"],
+    databases: ["MySQL", "MongoDB", "SQL Server"],
+    tools: ["Git", "Docker", "Figma", "Adobe XD", "Postman"],
+    currentlyExploring: ["AWS", "Docker", "Microservices"],
+    funFact: "I turn caffeine into code and bugs into features! ☕️✨"
+};
+```
 
-## 🛠️ Technologies & Tools
+<br clear="right"/>
+
+---
+
+### 🎯 My Development Journey
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=IndWit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" />
+
+<img align="right" width="47%" src="https://streak-stats.demolab.com?user=IndWit&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
+
+<br clear="both"/>
+
+<div align="center">
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=IndWit&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" />
+</div>
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+#### 💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### 🎨 Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### ⚙️ Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+#### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+#### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+#### ☁️ Cloud & DevOps
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+#### 🎨 Design & Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndWit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10" alt="Top Languages" />
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=IndWit&limit=5&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Contributed Repo" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=IndWit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+<div align="center">
+
+| 🎯 Project | 💡 Description | 🛠️ Tech Stack | 🔗 Status |
+|:-----------|:---------------|:---------------|:----------|
+| **LegalWeb App** | AI-powered platform connecting users with lawyers, featuring video consultations and chatbot | Flutter, Google Gemini API, Firebase | ✅ Completed 2024 |
+| **Hope4Ever** | Donation management system for government hospitals with secure tracking | React.js, Node.js, Express.js, MySQL, AWS | ✅ Completed 2025 |
+| **PeerPulse** | Anonymous feedback collection platform with real-time analytics | React, Go, MongoDB, Docker | ✅ Completed 2025 |
+| **Sport Center IMS** | Inventory management system for SUSL Sports Center | PHP, Laravel, MySQL, Bootstrap | ✅ Completed 2025 |
+| **SkillMatch LK** | Platform connecting students with community digital projects | React, Express.js, Tailwind CSS, MySQL | 🔄 Ongoing |
+
+</div>
+
+---
+
+### 🏆 Achievements & Certifications
+
+<div align="center">
+
+#### 🎖️ Hackathons & Competitions
+| 🏆 Achievement | 🏢 Organization | 📅 Year |
+|:---------------|:----------------|:--------|
+| **Hackventure 1.0 Finalist** | University of Kelaniya | 2024 |
+| **PovertyHack Participant** | SLAAS, OUSL, NASSL | 2025 |
+| **EXE2025 Participant** | LEO Club - University of Colombo | 2025 |
+
+#### 📜 Certifications
+| 📖 Certification | 🏢 Provider |
+|:-----------------|:------------|
+| Python for Beginners | University of Moratuwa |
+| Postman API Fundamentals Student Expert | Postman |
+| Multicloud Network Associate | Aviatrix Certified Engineer |
+
+</div>
+
+---
+
+### 🤝 Leadership & Volunteering
+
+<div align="center">
+
+| 🎯 Role | 🏢 Organization | 📅 Period |
+|:--------|:----------------|:----------|
+| **Secretary** | Society of Computer Sciences | 2025 - Present |
+| **Design Volunteer** | IEEE Branch of SUSL | 2024 - Present |
+| **Volunteer** | ICARC - Faculty of Computing, SUSL | 2024 |
+| **Volunteer** | STEMUP Educational Foundation | 2024 |
+
+</div>
+
+---
+
+### 💼 Professional Skills
 
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <h3>MERN Stack</h3>
-      <p>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-      </p>
+      <h3>🎯 Technical Skills</h3>
+      <ul align="left">
+        <li>✅ Full Stack Web Development</li>
+        <li>✅ Mobile App Development (Flutter)</li>
+        <li>✅ UI/UX Design</li>
+        <li>✅ Database Management</li>
+        <li>✅ RESTful API Development</li>
+        <li>✅ Version Control (Git)</li>
+        <li>✅ Agile Project Management</li>
+      </ul>
     </td>
     <td align="center" width="50%">
-      <h3>Programming Languages</h3>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>Frontend Development</h3>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-      </p>
-    </td>
-    <td align="center" width="50%">
-      <h3>Database</h3>
-      <p>
-        <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>Tools & Platforms</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-      </p>
-    </td>
-    <td align="center" width="50%">
-      <h3>Currently Learning</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
-      </p>
+      <h3>🌟 Soft Skills</h3>
+      <ul align="left">
+        <li>🤝 Leadership & Team Collaboration</li>
+        <li>💬 Clear Communication & Presentations</li>
+        <li>🧩 Problem Solving</li>
+        <li>🎯 Critical Thinking</li>
+        <li>📊 Stakeholder Management</li>
+        <li>⚡ Adaptability & Time Management</li>
+      </ul>
     </td>
   </tr>
 </table>
 
-## 🤝 Connect with Me
+---
 
-<p align="center">
-  <a href="mailto:indumawithanage1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/induma-withanage-5a4b2b1b4/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/IndWit" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
+### 🌱 Currently Learning
+
+<div align="center">
+
+```
+🎯 2025 Learning Goals:
+  📚 Advanced AWS Services & Cloud Architecture
+  📚 Microservices Architecture
+  📚 Kubernetes & Container Orchestration
+  📚 System Design & Scalability
+  📚 Advanced Go Programming
+  📚 Open Source Contributions
+```
+
+</div>
 
 ---
 
-<p align="center"> 
-  <i>Visitor count</i><br>
-  <img src="https://profile-counter.glitch.me/IndWit/count.svg" />
+### 🤝 Let's Connect!
+
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Indumawithanage1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/induma-withanage-5a4b2b1b4/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IndWit)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+
+### 💬 Open for Collaboration!
+
+```
+📧 Let's connect for:
+  • Full Stack Development Projects
+  • Mobile App Development
+  • UI/UX Design Collaboration
+  • Open Source Contributions
+  • Hackathons & Tech Events
+  
+📍 Based in Colombo, Sri Lanka 🇱🇰
+```
+
+</div>
+
+---
+
+### 📈 Profile Stats
+
+<div align="center">
+  
+<img src="https://profile-counter.glitch.me/IndWit/count.svg" alt="Visitor Count" />
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IndWit/IndWit/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IndWit/IndWit/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IndWit/IndWit/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+### 💭 Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+
+---
+
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/IndWit">Induma Withanage</a> | Building innovative solutions, one commit at a time! 🚀</i>
 </p>
+
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it's bad!" - Cory House 💻</i>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
