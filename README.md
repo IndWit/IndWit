@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋%20I'm%20Induma%20Withanage&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20%20I'm%20Induma%20Withanage&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 </div>
 
 <div align="center">
   
-  ### 💻 Software Engineering Intern | 🎓 Computing Student | 🚀 Full Stack Developer
+  ### 💻 Tech Enthusiast | 🎓 Computing Student | 🚀 Full Stack Developer
   
   <p align="center">
     <a href="https://git.io/typing-svg">
@@ -51,7 +51,8 @@ const induma = {
 
 ### 🎯 My Development Journey
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=IndWit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IndWit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+
 
 <img align="right" width="47%" src="https://streak-stats.demolab.com?user=IndWit&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
 
@@ -116,7 +117,6 @@ const induma = {
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndWit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10" alt="Top Languages" />
   <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=IndWit&limit=5&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Contributed Repo" />
 </div>
 
@@ -148,7 +148,6 @@ const induma = {
 <div align="center">
 
 ```
-🎯 2025 Learning Goals:
   📚 Advanced AWS Services & Cloud Architecture
   📚 Microservices Architecture
   📚 Kubernetes & Container Orchestration
@@ -170,18 +169,6 @@ const induma = {
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IndWit)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 
-### 💬 Open for Collaboration!
-
-```
-📧 Let's connect for:
-  • Full Stack Development Projects
-  • Mobile App Development
-  • UI/UX Design Collaboration
-  • Open Source Contributions
-  • Hackathons & Tech Events
-  
-📍 Based in Colombo, Sri Lanka 🇱🇰
-```
 
 </div>
 
@@ -198,7 +185,6 @@ const induma = {
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IndWit/IndWit/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IndWit/IndWit/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IndWit/IndWit/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
